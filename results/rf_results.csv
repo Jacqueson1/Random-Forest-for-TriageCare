@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,train_time_sec,predict_time_sec
+RandomForest (default),0.7898316747829769,0.7637279934754997,0.7383033603963373,0.7414904120404493,0.7895694340660178,53.7,26.7

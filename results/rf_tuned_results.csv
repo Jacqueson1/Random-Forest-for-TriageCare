@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,cv_f1_macro,search_time_min,predict_time_sec,best_params
+RandomForest (tuned),0.7874232479356341,0.8095889222156303,0.7129081549806872,0.7457336258779861,0.7848470347576297,0.7522777604885839,4.5,4.3,"{'n_estimators': 100, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 40, 'class_weight': None}"
